@@ -1,0 +1,20 @@
+body {
+  background-image: url(/Users/nate/Desktop/Active-Wallpapers/Blurred\ Lights\ And\ Dew.jpg);
+  background-size: cover; }
+  body div {
+    width: 50%;
+    margin: 5em auto; }
+    body div .likeButton {
+      padding: 2em;
+      margin: 0 1em;
+      font-size: 1em;
+      float: left;
+      width: 40%; }
+    body div .resetLikeButton {
+      padding: 2em;
+      margin: 0 1em;
+      font-size: 1em;
+      float: right;
+      width: 40%; }
+
+/*# sourceMappingURL=main.css.map */
